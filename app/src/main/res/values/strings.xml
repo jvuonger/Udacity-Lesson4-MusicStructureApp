@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Discover New Music</string>
+    <string name="genre_1_text">Hip Hop</string>
+    <string name="genre_2_text">RnB</string>
+    <string name="genre_3_text">Pop</string>
+    <string name="genre_4_text">Rock</string>
+    <string name="genre_5_text">EDM / Dance</string>
+    <string name="genre_6_text">Classical</string>
+    <string name="genre_7_text">Jazz</string>
+</resources>

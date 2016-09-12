@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/genre_list_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.jamesvuong.musicstructureapp.MainActivity">
+
+    <TextView
+        android:id="@+id/genre_1_text"
+        style="@style/genre_list_text_style"
+        android:background="@color/listColorOdd"
+        android:text="@string/genre_1_text" />
+
+    <TextView
+        android:id="@+id/genre_2_text"
+        style="@style/genre_list_text_style"
+        android:background="@color/listColorEven"
+        android:text="@string/genre_2_text" />
+
+    <TextView
+        android:id="@+id/genre_3_text"
+        style="@style/genre_list_text_style"
+        android:background="@color/listColorOdd"
+        android:text="@string/genre_3_text" />
+
+    <TextView
+        android:id="@+id/genre_4_text"
+        style="@style/genre_list_text_style"
+        android:background="@color/listColorEven"
+        android:text="@string/genre_4_text" />
+
+    <TextView
+        android:id="@+id/genre_5_text"
+        style="@style/genre_list_text_style"
+        android:background="@color/listColorOdd"
+        android:text="@string/genre_5_text" />
+
+    <TextView
+        android:id="@+id/genre_6_text"
+        style="@style/genre_list_text_style"
+        android:background="@color/listColorEven"
+        android:text="@string/genre_6_text" />
+
+    <TextView
+        android:id="@+id/genre_7_text"
+        style="@style/genre_list_text_style"
+        android:background="@color/listColorOdd"
+        android:text="@string/genre_7_text" />
+</LinearLayout>
