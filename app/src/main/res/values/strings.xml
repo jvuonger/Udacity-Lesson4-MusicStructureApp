@@ -7,4 +7,10 @@
     <string name="genre_5_text">EDM / Dance</string>
     <string name="genre_6_text">Classical</string>
     <string name="genre_7_text">Jazz</string>
+    <string name="genre_screen_explanation">
+        This screen should list the hottest songs for the chosen.\n
+        \n
+        Using the MediaPlayer class from Android's SDK, we can playback audio from a source.
+    </string>
+    <string name="song_detail_explanation">This activity displays the chosen song and will stream it.</string>
 </resources>

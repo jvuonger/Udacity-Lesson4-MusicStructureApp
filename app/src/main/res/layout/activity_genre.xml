@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="This screen should list the hottest songs for the chosen genre."/>
+        android:text="@string/genre_screen_explanation"/>
 
     <Button
         android:id="@+id/play_song_button"

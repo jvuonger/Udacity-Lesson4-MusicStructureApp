@@ -13,7 +13,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="This activity displays the chosen song and will stream it."/>
+        android:text="@string/song_detail_explanation"/>
 
     <Button
         android:id="@+id/back_to_genre_button"
